@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **a master in full stack web design at Trazos**
 
-- 📫 How to reach me **cggoemz93@gmail.com**
+- 📫 How to reach me **cggomez93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
